@@ -1,0 +1,232 @@
+{
+  "version": 3,
+  "branding": "asdf",
+  "timeshiftBufferSizeMinutes": 1,
+  "backendUrl": "https://demo.neti.systems:8080",
+  "channels": [
+    {
+      "groupId": 1,
+      "title": "Match A",
+      "id": 1,
+      "detail": "Main",
+      "logoUrl": "",
+      "showTrophy": 1,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_01",
+        "isTimeShiftSupported": 1
+      }
+    },
+    {
+      "groupId": 1,
+      "title": "Match A",
+      "id": 2,
+      "detail": "Tactical",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_02",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 1,
+      "title": "Match A",
+      "id": 3,
+      "detail": "Team",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_04",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 1,
+      "title": "Match A",
+      "id": 4,
+      "detail": "Player",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_07",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 2,
+      "title": "Match B",
+      "id": 5,
+      "detail": "Main",
+      "logoUrl": "",
+      "showTrophy": 1,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_08",
+        "isTimeShiftSupported": 1
+      }
+    },
+    {
+      "groupId": 2,
+      "title": "Match B",
+      "id": 6,
+      "detail": "Tactical",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_09",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 2,
+      "title": "Match B",
+      "id": 7,
+      "detail": "Team",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "CH_01",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 2,
+      "title": "Match B",
+      "id": 8,
+      "detail": "Player",
+      "logoUrl": "",
+      "showTrophy": 0,
+      "genericLogo": "",
+      "logoPath": "",
+      "syeChannel": {
+        "channelId": "ch08",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 9,
+      "detail": "PGM MRL 1",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_1.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_1.png",
+      "logoPath": "images/channels/generic_1.png",
+      "syeChannel": {
+        "channelId": "ch09",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 10,
+      "detail": "PGM MRL 2",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_2.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_2.png",
+      "logoPath": "images/channels/generic_2.png",
+      "syeChannel": {
+        "channelId": "ch10",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 11,
+      "detail": "PGM MRL 3",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_3.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_3.png",
+      "logoPath": "images/channels/generic_3.png",
+      "syeChannel": {
+        "channelId": "ch11",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 12,
+      "detail": "PGM MRL 4",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_4.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_4.png",
+      "logoPath": "images/channels/generic_4.png",
+      "syeChannel": {
+        "channelId": "ch12",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 13,
+      "detail": "PGM MRL 5",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_5.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_5.png",
+      "logoPath": "images/channels/generic_5.png",
+      "syeChannel": {
+        "channelId": "ch13",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 14,
+      "detail": "PGM MRL 6",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_6.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_6.png",
+      "logoPath": "images/channels/generic_6.png",
+      "syeChannel": {
+        "channelId": "ch14",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 15,
+      "detail": "PGM MRL 7",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_7.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_7.png",
+      "logoPath": "images/channels/generic_7.png",
+      "syeChannel": {
+        "channelId": "ch15",
+        "isTimeShiftSupported": 0
+      }
+    },
+    {
+      "groupId": 3,
+      "title": "PGM MRL",
+      "id": 16,
+      "detail": "PGM MRL 8",
+      "logoUrl": "https://ibclive.neti.systems:7074//images/channels/generic_8.png",
+      "showTrophy": 0,
+      "genericLogo": "images/channels/generic_8.png",
+      "logoPath": "images/channels/generic_8.png",
+      "syeChannel": {
+        "channelId": "",
+        "isTimeShiftSupported": 0
+      }
+    }
+  ]
+}
